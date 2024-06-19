@@ -16,3 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=Mrallena&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mrallena&theme=radical&no-frame=false&no-bg=true&margin-w=4)
