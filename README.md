@@ -7,7 +7,7 @@
 ![Django](https://img.shields.io/badge/django-white.svg?style=for-the-badge&logo=django&logoColor=green) ![Phonepe](https://img.shields.io/badge/phonepe-34235.svg?style=for-the-badge&logo=phonepe&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrallena&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) </br> ![](https://github-readme-streak-stats.herokuapp.com/?user=mrallena&theme=tokyonight&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrallena&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrallena&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
